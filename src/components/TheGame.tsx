@@ -107,7 +107,7 @@ const TheGame = ({
               />
             ) : (
               <img
-                src="src/assets/guess.jpg"
+                src="/assets/guess.jpg"
                 alt="guess"
                 className="h-20 w-20 rounded-3xl"
               />
